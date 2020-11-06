@@ -1,0 +1,12 @@
+name: OpMe
+version: 0.0.1
+main: xyz.rusin.mvinvimporter.OpMe
+api-version: 1.16
+author: loganthemanster
+commands:
+  opme:
+    description: Main command
+    permission: opme
+permissions:
+  opme:
+    description: Allow the player to op themselves
