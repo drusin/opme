@@ -1,6 +1,6 @@
 name: OpMe
 version: 0.0.1
-main: xyz.rusin.mvinvimporter.OpMe
+main: xyz.rusin.opme.OpMe
 api-version: 1.16
 author: loganthemanster
 commands:

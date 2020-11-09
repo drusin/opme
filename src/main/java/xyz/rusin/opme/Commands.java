@@ -1,4 +1,4 @@
-package xyz.rusin.mvinvimporter;
+package xyz.rusin.opme;
 
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

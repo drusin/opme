@@ -1,4 +1,4 @@
-package xyz.rusin.mvinvimporter;
+package xyz.rusin.opme;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
